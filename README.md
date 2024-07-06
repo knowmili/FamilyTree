@@ -9,7 +9,7 @@ This project implements a Python-based family tree generator application featuri
 - Save tree visualization as PNG
 
 ## Screenshots
-![Family Tree](gui/startup.png)
+![Family Tree](gui/Startup.png)
 ![Family Tree](gui/Screenshot.png)
 
 ## Installation
@@ -18,4 +18,5 @@ This project implements a Python-based family tree generator application featuri
 
 ### How to Run
 1. Clone the repository:
+   git clone https://github.com/knowmili/FamilyTree.git
 
